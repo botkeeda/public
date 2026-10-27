@@ -12,7 +12,7 @@
     "dev": "nodemon index.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:@vansnowi/baileys",
+    "@whiskeysockets/baileys": "npm:baileys",
     "@hapi/boom": "^10.0.1",
     "@vitalets/google-translate-api": "^9.2.1",
     "@google/genai": "latest",
